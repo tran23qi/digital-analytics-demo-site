@@ -1,5 +1,5 @@
 # Digital Analytics Demo Site
-**A full measurement system built to simulate a real B2B analytics setup — from tracking strategy to Looker Studio reporting.**
+**A full measurement system built to simulate a real B2B analytics setup: from tracking strategy to Looker Studio reporting.**
 
 🌐 **[View Live Demo](https://tran23qi.github.io/digital-analytics-demo-site/)**
 
